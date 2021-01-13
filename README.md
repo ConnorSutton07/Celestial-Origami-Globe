@@ -17,3 +17,4 @@ Input image (Mercator projection of Jupiter)
 
 
 Resulting image to be folded 
+![jupiter-balloon](https://user-images.githubusercontent.com/55513603/104521885-69fb6980-55c3-11eb-8ba1-574e42997907.png)
