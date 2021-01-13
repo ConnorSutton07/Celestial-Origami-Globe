@@ -12,7 +12,8 @@ Credit for original idea and instructions: Ian J. M. Crossfield KU Dept. of Phys
  
 ### Example
 
-Input image
+Input image (Mercator projection of Jupiter)
+![jupiter](https://user-images.githubusercontent.com/55513603/104521819-43d5c980-55c3-11eb-9bb5-b4c37673cd5a.jpg)
 
 
 Resulting image to be folded 
